@@ -1,2 +1,2 @@
 print(saman)
-return true
+return truefalse
